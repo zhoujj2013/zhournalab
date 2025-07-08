@@ -13,4 +13,4 @@ rank: 7
 
 ## Open Positions
 
-#### The postdoctoral training opportunity is open to researchers from all disciplines with an interest in molecular biology or bioinformatics. Please send your CV to zhoujj2013@smu.edu.cn.
+#### The postdoctoral training opportunity is open to researchers from all disciplines with an interest in molecular biology and bioinformatics. Please send your CV to zhoujj2013@smu.edu.cn.
