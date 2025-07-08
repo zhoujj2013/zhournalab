@@ -1,0 +1,6 @@
+<li>
+    <h2><span class="member-name">{{ photo.name }}</span>{% if photo.time %}, {{ photo.time }}{% endif %}</h2>
+    {% if photo.snapshot %}
+        <img class="float-left evens-snapshot" src="{{ photo.snapshot | prepend: site.images_dir | prepend: site.baseurl }}">
+    {% endif %}
+</li>

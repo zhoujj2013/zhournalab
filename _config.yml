@@ -1,0 +1,19 @@
+# Site settings
+lab_name: Zhoulab
+institution: Dermatology Hospital
+institution: Southern Medical University
+email: zhoujj2013@smu.edu.cn
+description: >
+  Zhoulab performs cutting-edge research on non-coding RNAs, skin aging and molecular diagnosis with NGS technologies.
+baseurl: ""
+url: "http://zhournalab.gitee.io/"
+#gitee_username: zhournalab
+github_username:  zhoujj2013
+images_dir: "/images/"
+pages: 6
+
+
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+permalink: /:title/
