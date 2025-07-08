@@ -13,9 +13,49 @@
     error-corrected sequencing strategies.
   photo: pi.jpg
 
-- name: Xuefei LI
+- name: Jingxia LIN
   is_pi: False
   is_current: True
+  position: Research Assistant
+  bio: >
+    Her research focuses on the molecular mechanism of lncRNAs on cellular senescence and the development of circRNA-based drugs for anti-aging.
+  photo: 
+
+- name: Yusen LIN
+  is_pi: False
+  is_current: True
+  position: Research Assistant
+  bio: >
+    His research focuses on computational biology and machine learning algorithm.
+  photo: 
+
+- name: Meiting CAI
+  is_pi: False
+  is_current: True
+  position: M.Phil. Student
+  bio: >
+    Her research focuses on high-throughput screening of functional TFs in a genome-wide level.
+  photo: 
+
+- name: Shuilan LI
+  is_pi: False
+  is_current: True
+  position: M.Phil. Student
+  bio: >
+    On rotation.
+  photo: 
+
+- name: Hang Jiang
+  is_pi: False
+  is_current: True
+  position: Research Assistant
+  bio: >
+    His research focuses on the mechanism of exercise effects on the skin tissue.
+  photo: 
+
+- name: Xuefei LI
+  is_pi: False
+  is_current: False
   position: Research Assistant
   bio: >
     He got his M.phil. Degree in microbiology at South China Agricultural University.
@@ -25,17 +65,17 @@
 
 - name: Yongjun ZHANG
   is_pi: False
-  is_current: True
+  is_current: False
   position: Research Assistant
   bio: >
     He got his M.phil. Degree in biotechnology at Southern Medical University.
     After that, he starts working as Research Assistant at Dermatology Hospital of <a href="https://www.smu.edu.cn/">Southern Medical University</a>.
     His research focuses on decoding the functions of non-coding elements using ChIP-seq, RNA-seq and other NGS technologies.
-  photo: team/yongjun.jpg
+  photo: 
 
 - name: Huiting LIU
   is_pi: False
-  is_current: True
+  is_current: False
   position: M.Phil. Student
   bio: >
     She got her bachelor's degree in medicine at Guangzhou Medical University.
@@ -45,7 +85,7 @@
 
 - name: Xiaojuan TENG
   is_pi: False
-  is_current: True
+  is_current: False
   position: M.Phil. Student
   bio: >
     She got her bachelor's degree in Clinical Laboratory at Chongqing Medical University.
@@ -55,7 +95,7 @@
 
 - name: Xinquan ZENG
   is_pi: False
-  is_current: True
+  is_current: False
   position: M.Phil. Student
   bio: >
      He got her bachelor's degree in biochemistry and molecular biology at Southern Medical University.
