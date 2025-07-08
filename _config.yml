@@ -5,7 +5,7 @@ institution: Southern Medical University
 email: zhoujj2013@smu.edu.cn
 description: >
   Zhoulab performs cutting-edge research on non-coding RNAs, skin aging and molecular diagnosis with NGS technologies.
-baseurl: "/zhournalab/"
+baseurl: "/zhournalab"
 url: "https://zhoujj2013.github.io/"
 #gitee_username: zhournalab
 github_username:  zhoujj2013
