@@ -6,7 +6,7 @@ email: zhoujj2013@smu.edu.cn
 description: >
   Zhoulab performs cutting-edge research on non-coding RNAs, skin aging and molecular diagnosis with NGS technologies.
 baseurl: ""
-url: "http://zhournalab.gitee.io/"
+url: "https://zhoujj2013.github.io/zhournalab/"
 #gitee_username: zhournalab
 github_username:  zhoujj2013
 images_dir: "/images/"
