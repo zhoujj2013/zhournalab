@@ -6,6 +6,21 @@ toggle: on
 rank: 5
 ---
 
+### SRLE-seq
+
+SRLE-seq (Screening RNA Localization Elements by Sequencing), a high-throughput method to identify functional localization elements.
+For more detials, please refer to <a href="https://github.com/lysovosyl/SRLE-seq">github</a>. 
+
+### NanoDeep
+
+This is an open-source Python3 package for nanopore adaptive sample base on deep learning and the Read Until API.
+For more detials, please refer to <a href="https://github.com/lysovosyl/NanoDeep">github</a>. 
+
+### PathoEye
+
+We developed PathoEye for WSI analysis in dermatology, which integrates epidermis-guided sampling, deep learning and radiomics. 
+For more detials, please refer to <a href="https://github.com/lysovosyl/PathoEye">github</a>. 
+
 ### lncFunTK
 
 lncFunTK is a toolkit that integrates ChIP-seq, CLIP-seq, and RNA-seq data to predict, prioritize, and annotate lncRNA functions.
