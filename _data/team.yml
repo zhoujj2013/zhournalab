@@ -29,6 +29,14 @@
     His research focuses on computational biology and machine learning algorithm.
   photo: 
 
+- name: Tingting Deng
+  is_pi: False
+  is_current: True
+  position: M.Phil. Student
+  bio: >
+    Bioinformatics and aging-associated inflammation.
+  photo: 
+
 - name: Meiting CAI
   is_pi: False
   is_current: True
@@ -43,6 +51,14 @@
   position: M.Phil. Student
   bio: >
     On rotation.
+  photo: 
+
+- name: Teng Yan
+  is_pi: False
+  is_current: True
+  position: Ph.D. student
+  bio: >
+    His research focuses on skin genetic diseases.
   photo: 
 
 - name: Yongjun ZHANG
@@ -71,6 +87,14 @@
      He got her bachelor's degree in biochemistry and molecular biology at Southern Medical University.
      After that, he joined our lab for his M.Phil. research.
      He research focuses on epigenetic functions in epidermis stem cell aging using in vivo CRISPR-a technology.
+  photo: 
+
+- name: Shiyang Chen
+  is_pi: False
+  is_current: False
+  position: B.S. Student
+  bio: >
+    Her research focuses on skin genetic diseases.
   photo: 
 
 - name: Huiting LIU
