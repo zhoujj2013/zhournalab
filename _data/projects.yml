@@ -1,11 +1,11 @@
-- name: Molecular mechanism of epigenetic aberrations on EpiSCs aging
+- name: Molecular mechanism of epigenetic aberrations on skin aging
   description: >
     The regeneration ability of epidermal stem cells (EpdSCs) gradually declines with age, 
     eventually leading to the age-related decline of skin functions. The project aims to prioritize 
     critical regulators in the gene regulatory network involved transcription factors (TFs), enhancers 
     and ECM genes in EpdSCs with age through integrating multi-omics datasets.
-  funding: National Natural Science Foundation of China (NSFC) 
-  collaborators: 
+  funding: NSFC, SMUDH 
+  collaborators: Zhengfeng, LIU
   assignees: 
   photo: project/project1.jpg
 
@@ -16,7 +16,7 @@
     in a specific subcellular localization. However, the underlying mechanism needs further investigation. 
     In this project, we intend to integrate multi-omics datasets and molecular techniques to 
     study the mechanism of RBP-mediated lncRNA subcellular localization.
-  funding: National Natural Science Foundation of China (NSFC)
+  funding: NSFC
   collaborators: 
   assignees: 
   photo: project/project2.jpg
@@ -27,6 +27,6 @@
     including sample preparation, target pathogen enrichment, library preparation, nanopore sequencing, 
     and algorithm/databases for pathogen identification.
   funding: SMUDH
-  collaborators: Dr. Yuhui Liao, Dr. Bowen Shu
+  collaborators: Prof. Yuhui Liao, Prof. Xiaoming Zhou, Dr. Bowen Shu
   assignees: 
   photo: project/project3.jpg
