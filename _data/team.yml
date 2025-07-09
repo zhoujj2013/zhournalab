@@ -45,52 +45,22 @@
     On rotation.
   photo: 
 
-- name: Hang Jiang
-  is_pi: False
-  is_current: True
-  position: Research Assistant
-  bio: >
-    His research focuses on the mechanism of exercise effects on the skin tissue.
-  photo: 
-
-- name: Xuefei LI
-  is_pi: False
-  is_current: False
-  position: Research Assistant
-  bio: >
-    He got his M.phil. Degree in microbiology at South China Agricultural University.
-    After that, he starts working as a staff at Novogene and Huayin Co. for three years.
-    His research focuses on computational biology and machine learning algorithm.
-  photo: 
-
 - name: Yongjun ZHANG
   is_pi: False
   is_current: False
-  position: Research Assistant
+  position: Ph.D. student
   bio: >
     He got his M.phil. Degree in biotechnology at Southern Medical University.
     After that, he starts working as Research Assistant at Dermatology Hospital of <a href="https://www.smu.edu.cn/">Southern Medical University</a>.
     His research focuses on decoding the functions of non-coding elements using ChIP-seq, RNA-seq and other NGS technologies.
   photo: 
-
-- name: Huiting LIU
+  
+- name: Hang Jiang
   is_pi: False
   is_current: False
   position: M.Phil. Student
   bio: >
-    She got her bachelor's degree in medicine at Guangzhou Medical University.
-    After that, she joined Dr. Bin Yang's lab for her research career.
-    Her research focuses on lncRNA functions on multiple skin diseases.
-  photo: 
-
-- name: Xiaojuan TENG
-  is_pi: False
-  is_current: False
-  position: M.Phil. Student
-  bio: >
-    She got her bachelor's degree in Clinical Laboratory at Chongqing Medical University.
-    After that, she joined our lab for her M.Phil. research.
-    Her research focuses on lncRNA functions on skin fibroblast aging.
+    His research focuses on the mechanism of exercise effects on the skin tissue.
   photo: 
 
 - name: Xinquan ZENG
@@ -103,6 +73,36 @@
      He research focuses on epigenetic functions in epidermis stem cell aging using in vivo CRISPR-a technology.
   photo: 
 
+- name: Huiting LIU
+  is_pi: False
+  is_current: False
+  position: M.Phil. Student
+  bio: >
+    She got her bachelor's degree in medicine at Guangzhou Medical University.
+    After that, she joined Dr. Bin Yang's lab for her research career.
+    Her research focuses on lncRNA functions on multiple skin diseases.
+  photo: 
+  
+- name: Xiaojuan TENG
+  is_pi: False
+  is_current: False
+  position: M.Phil. Student
+  bio: >
+    She got her bachelor's degree in Clinical Laboratory at Chongqing Medical University.
+    After that, she joined our lab for her M.Phil. research.
+    Her research focuses on lncRNA functions on skin fibroblast aging.
+  photo: 
+  
+- name: Xuefei LI
+  is_pi: False
+  is_current: False
+  position: Research Assistant
+  bio: >
+    He got his M.phil. Degree in microbiology at South China Agricultural University.
+    After that, he starts working as a staff at Novogene and Huayin Co. for three years.
+    His research focuses on computational biology and machine learning algorithm.
+  photo: 
+  
 - name: Jie YUAN
   is_pi: False
   is_current: False
